@@ -304,6 +304,9 @@ p{
 
 /*responsividade da fonte*/
 @media screen and (max-width: 550px) {
+	.esq{
+		float: left;
+	}
 	/**/
 	.menu{
 		/* size: 100%; */
@@ -438,6 +441,9 @@ p{
 		
 		/* padding-top: 56.25%; /* 16:9*/ 
 		
+	}
+	.dir{
+		float: right;
 	}
 
 }
